@@ -15,4 +15,4 @@ profiles:       http://www.pei.cz/
   flickr:		  
 ---
 
-Michal Zachar (17.6. června 1966), je členem mediálního odboru. Povoláním je lektor soft skills, imagemaker, freelancer. Členem pirátské strany od prosince 2017. Je Pirátem v MS Praha 6.
+Michal Zachar (17.6. června 1966), je členem mediálního odboru, vedoucí týmu odpovídačů. Povoláním je lektor soft skills, imagemaker, freelancer. Členem pirátské strany od prosince 2017. Je Pirátem v MS Praha 6.
