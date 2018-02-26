@@ -7,8 +7,8 @@ img: people/michal-zachar.jpg   # 165 x 220
 description: člen mediálního odboru             	# kratký popis, max 160 znaků
 mail:
 - michal.zachar@pirati.cz
-mob:			  +420 603 454 341
-profiles:
+mob:			  
+profiles:       http://www.pei.cz/
   github:       
   facebook:     https://www.facebook.com/wizard.michal
   twitter: 		  https://twitter.com/michalzachar
