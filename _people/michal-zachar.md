@@ -1,21 +1,18 @@
 ---
-uid: ivan.mikolas
-name:     Ivan Mikoláš  	# běžně používáné jméno
-fullname: Ivan Mikoláš  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- mhmp
-img: people/ivan-mikolas.jpg   # 165 x 220
-description: Zastupitel Pirátů v zastupitelstvu hl. m. Prahy             	# kratký popis, max 160 znaků
+uid: michal.zachar
+name:     Michal Zachar  	# běžně používáné jméno
+fullname: Michal Zachar  	# jméno s tituly etc.
+category:                 	# kategorie: mo, praha, praha6, 
+img: people/michal-zachar.jpg   # 165 x 220
+description: člen mediálního odboru             	# kratký popis, max 160 znaků
 mail:
-- ivan.mikolas@pirati.cz
+- michal.zachar@pirati.cz
 mob:			  +420 603 454 341
 profiles:
   github:       
-  facebook:     https://www.facebook.com/leprikohn.frosh
-  twitter: 		  
+  facebook:     https://www.facebook.com/wizard.michal
+  twitter: 		  https://twitter.com/michalzachar
   flickr:		  
-ordpraha: 4
 ---
 
-Ivan Mikoláš (8. dubna 1965) je zastupitel hl. m. Prahy za Piráty. Je členem Pirátů na městské části Praha 10. Povoláním je technik a podnikatel.  Pirátské strany. 
+Michal Zachar (17.6. června 1966), je členem mediálního odboru. Je také Pirátem na městské části Praha 6. Povoláním je lektor soft skills, frelancer. Člen pirátské strany od prosince 2017.  
